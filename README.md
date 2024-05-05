@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nguyen Quang Huy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a developer with an understanding of embedded systems and diverse programming languages. My expertise includes working with microcontrollers, microprocessors, and other embedded hardware.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huycan1605&label=Profile%20views&color=0e75b6&style=flat" alt="huycan1605" /> </p>
 
